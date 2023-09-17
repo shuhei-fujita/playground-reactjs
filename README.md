@@ -1,5 +1,6 @@
 ## Bun - A Fast JavaScript Runtime, Package Manager, Bundler, and Test Runner
 
+
 Welcome to the `bun` project! This README provides a quick overview of how to get started with `bun` and run a React application.
 
 ## Installation
